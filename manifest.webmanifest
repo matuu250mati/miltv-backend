@@ -1,0 +1,17 @@
+{
+  "name": "MILTV",
+  "short_name": "MILTV",
+  "description": "MILTV — reproductor y plataforma de TV en la web.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0f14",
+  "theme_color": "#0a0f14",
+  "lang": "es",
+  "categories": [
+    "tv",
+    "video",
+    "entertainment"
+  ]
+}
